@@ -132,4 +132,4 @@ Client.on("messageCreate", message => {
 
 
 
-Client.login("OTA5Mzk0MTU2ODY5Mjc5NzU0.YZDpTg.zMC1Z_kvws4DfFdyct1Lzaye64M");
+Client.login("process.env.OTA5Mzk0MTU2ODY5Mjc5NzU0.YZDpTg.zMC1Z_kvws4DfFdyct1Lzaye64M");
